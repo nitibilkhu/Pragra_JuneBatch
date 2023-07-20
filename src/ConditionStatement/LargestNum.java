@@ -22,7 +22,6 @@ public class LargestNum {
         else {
             System.out.println(num3 + " is largest");
         }
-
     }
 
 }

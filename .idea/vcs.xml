@@ -2,5 +2,12 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/ClassAndObject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/ConditionStatement" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/Methodprograms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/homejavapractice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/july13git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/loop_assignment_lms" vcs="Git" />
   </component>
 </project>
